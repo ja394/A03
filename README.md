@@ -1,4 +1,10 @@
 # A03
+create a respository
+make it public
+edit it and put in your work
+Commit directly to the master branch
+commit changes and it is done
+
 GIT is an open source program for tracking changes in text files and is in the core technology that GitHub, the social and interface is built.
 
 GITHUB is a web-based hosting service for software development projects that use the Git revision control system. GitHub offers both paid plans for private repositories, and free accounts for open source projects
